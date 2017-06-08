@@ -1,0 +1,49 @@
+/* Estilos generales */
+
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* Color de la navbar */
+
+.navbar-default {
+    background-color: #f7f7f7;
+}
+
+
+/* Hover para los elementos de la navbar */
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+
+/* Estilos para la section 1 */
+
+.section-one {
+    margin-top: 50px;
+    text-align: center;
+    background-color: #33485c;
+}
+
+.white-text {
+    color: white;
+}
+
+.container-text {
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 60px;
+}
+
+.subtitle {
+    margin-bottom: 50px;
+}
+
+.img-app {
+    text-align: center;
+}
