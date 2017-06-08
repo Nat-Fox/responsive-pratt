@@ -33,6 +33,7 @@ body {
     margin-top: 50px;
     text-align: center;
     background-color: #33485c;
+    width: 100%;
 }
 
 .white-text {
@@ -61,6 +62,7 @@ body {
 .section-two {
     background-color: #f7f7f7;
     text-align: center;
+    width: 100%;
 }
 
 .title-section-two {
@@ -97,4 +99,64 @@ hr {
 
 .left {
     text-align: left;
+}
+
+
+/* Estilos section 3 */
+
+.section-tres {
+    background-color: #33485c;
+    width: 100%;
+}
+
+.title-section-tres {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.img-person {
+    margin-bottom: 100px;
+}
+
+
+/* Estilos section 4 */
+
+.section-cuatro {
+    background-color: #2e2e2e;
+    width: 100%;
+}
+
+.title-section-cuatro {
+    margin-top: 50px;
+}
+
+.input-group {
+    width: 100%;
+}
+
+.input-text {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.btn {
+    margin-top: 30px;
+    margin-bottom: 100px;
+    background-color: #56ba56;
+}
+
+
+/* footer */
+
+footer {
+    background-color: #212121;
+    padding: 25px;
+    text-align: center;
+    width: 100%;
+}
+
+.span-footer {
+    color: #1d5742
 }
